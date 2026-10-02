@@ -1,0 +1,3 @@
+.gitignore
+/Testing/node_modules/
+/Testing/coverage/
